@@ -1,3 +1,3 @@
 # Simple-Blockchain/Cryptocurrency
 
-Simple blockchain python implementation
+Simple blockchain and a cryptocurrency (AbdelCoin) python implementation
